@@ -16,6 +16,12 @@ The course aims to provide an understanding of analyzing algorithms and their co
 
 # Topics:
 
+| Academic Period | Main Repository Folder | Activities |
+|:---|:---:|:---:|
+| Prelims | [📁 PRELIM](./PRELIM) | 5 Activities |
+| Midterms | [📁 MIDTERM](./MIDTERM) | 5 Activities |
+| Finals | [📁 FINALS](./FINALS) | 4 Activities + 1 Laboratory Exam(Prelim) |
+
 ### 1. Prelims
 | Period | Main File |
 | :--- | :--- |
